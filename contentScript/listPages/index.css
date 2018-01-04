@@ -1,0 +1,14 @@
+.et-btn-list{
+    /*height: 47px;*/
+    border-radius: 3px;
+    background-color: #F5F5F5;
+    border: 0;
+    display: block;
+    padding: 10px 0;
+}
+.et-btn-list li{
+    list-style-type:none;
+    display: inline-block;
+    /*float: right;*/
+    margin-left: 7px;
+}
